@@ -1,1 +1,8 @@
-Here you will get a 10 days short program based concepts of Data Structures in Python.
+These 10 Days Of Data Structures Using Python Include-
+Day 1 - Nodes
+Day 2 - Stack
+Day 3 - Single Linked List
+Day 4 - Circular Linked List
+Day 5 - Double Linked List
+Day 6 - Advance Array Implementations
+
